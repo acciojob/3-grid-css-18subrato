@@ -2,7 +2,8 @@
 	display:grid;
 	grid-template-columns: repeat(3, 1fr);
 	  grid-template-rows: repeat(2, auto);
-	gap:10px
+		gap:10px;
+	text-align:center
 }
 .grid-container .grid-item{
 	background-color:#f2f2f2;
